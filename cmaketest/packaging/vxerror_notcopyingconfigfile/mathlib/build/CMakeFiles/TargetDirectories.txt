@@ -1,7 +1,0 @@
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/basic_math.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/edit_cache.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/rebuild_cache.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/list_install_components.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/install.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/install/local.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build/CMakeFiles/install/strip.dir

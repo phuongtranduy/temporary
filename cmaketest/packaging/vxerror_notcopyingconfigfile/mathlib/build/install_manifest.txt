@@ -1,5 +1,0 @@
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/lib/libbasic_math.a
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/include/config/mathlib.hpp
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/include/basicmath.hpp
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/share/cmake/mathlib/mathlibTargets.cmake
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/share/cmake/mathlib/mathlibTargets-noconfig.cmake

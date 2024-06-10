@@ -1,3 +1,0 @@
-/home/phuongtran/learningstudying/cmaketest/packaging/testapp1/build/CMakeFiles/testapp1.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/testapp1/build/CMakeFiles/edit_cache.dir
-/home/phuongtran/learningstudying/cmaketest/packaging/testapp1/build/CMakeFiles/rebuild_cache.dir

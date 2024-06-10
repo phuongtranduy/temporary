@@ -1,1 +1,0 @@
-/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/lib/libbasic_math.a

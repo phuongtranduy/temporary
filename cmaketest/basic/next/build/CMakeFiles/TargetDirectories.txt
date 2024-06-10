@@ -1,3 +1,0 @@
-/home/phuongtran/learningstudying/cmaketest/next/build/CMakeFiles/hello_world.dir
-/home/phuongtran/learningstudying/cmaketest/next/build/CMakeFiles/edit_cache.dir
-/home/phuongtran/learningstudying/cmaketest/next/build/CMakeFiles/rebuild_cache.dir
