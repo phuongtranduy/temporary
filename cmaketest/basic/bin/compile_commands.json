@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/phuongtran/test/cmaketest/bin",
+  "command": "/usr/bin/c++    -o CMakeFiles/hello_world.dir/main.cpp.o -c /home/phuongtran/test/cmaketest/main.cpp",
+  "file": "/home/phuongtran/test/cmaketest/main.cpp"
+}
+]

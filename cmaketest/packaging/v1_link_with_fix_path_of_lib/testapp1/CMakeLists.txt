@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+project(testapp1)
+add_executable(testapp1 main.cpp)
+target_include_directories(testapp1 PRIVATE ../mathlib/src)
+target_link_directories(testapp1 PRIVATE ../mathlib/build)
+target_link_libraries(testapp1 PRIVATE basic_math)
