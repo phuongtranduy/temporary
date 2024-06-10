@@ -1,0 +1,50 @@
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$cmake -DCMAKE_INSTALL_PREFIX=../mathlibbin ..
+CMake Warning at CMakeLists.txt:25 (message):
+  
+  CMAKE_INSTALL_PREFIX=/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin
+
+
+CMake Warning at CMakeLists.txt:27 (message):
+  
+  CMAKE_BINARY_DIR=/home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/phuongtran/learningstudying/cmaketest/packaging/mathlib/build
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$make
+Consolidate compiler generated dependencies of target basic_math
+[100%] Built target basic_math
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$make install
+[100%] Built target basic_math
+Install the project...
+-- Install configuration: ""
+-- Installing: /home/phuongtran/learningstudying/cmaketest/packaging/mathlib/mathlibbin/lib/libbasic_math.a
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$ls -l ../mathlibbin/
+total 4
+drwxrwxr-x 2 phuongtran phuongtran 4096 Thg 6   9 12:44 lib
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$ls -l ../mathlibbin/lib/
+total 4
+-rw-r--r-- 1 phuongtran phuongtran 2762 Thg 6   9 12:42 libbasic_math.a
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$tree ../mathlibbin/
+../mathlibbin/
+├── include
+│   ├── basicmath.hpp
+│   └── config
+│       └── mathlib.hpp
+├── lib
+│   └── libbasic_math.a
+└── share
+    └── cmake
+        └── mathlib
+            ├── mathlibConfig.cmake
+            ├── mathlibConfigVersion.cmake
+            ├── mathlibTargets.cmake
+            └── mathlibTargets-noconfig.cmake
+
+6 directories, 7 files
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$
+
+phuongtran@phuongtranvbox:~/learningstudying/cmaketest/packaging/mathlib/build<>$rm -r ../mathlibbin/ *

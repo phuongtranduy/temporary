@@ -1,0 +1,5 @@
+// the configured options and settings for Tutorial
+#define VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+#define VERSION_MINOR @PROJECT_VERSION_MINOR@
+#define VERSION_PATCH @PROJECT_VERSION_PATCH@
+#define VERSION_TWEAK @mathlib_VERSION_TWEAK@

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/testapp1.dir/main.cpp.o -o testapp1   -L/home/phuongtran/learningstudying/cmaketest/packaging/testapp1/../mathlib/build  -Wl,-rpath,/home/phuongtran/learningstudying/cmaketest/packaging/testapp1/../mathlib/build -lbasic_math 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/phuongtran/learningstudying/cmaketest/next/build",
+  "command": "/usr/bin/c++ -DDEFINITION_PHUONG=\"\\\"Some Value with space\\\"\"   -o CMakeFiles/hello_world.dir/main.cpp.o -c /home/phuongtran/learningstudying/cmaketest/next/main.cpp",
+  "file": "/home/phuongtran/learningstudying/cmaketest/next/main.cpp"
+}
+]
